@@ -1,3 +1,6 @@
+import platform
+import os
+
 def obter_inteiro(conteudo):
     while True:
 
@@ -14,12 +17,12 @@ def obter_inteiro_positivo(conteudo):
         try:
             inteiro = obter_inteiro(conteudo)
 
-            if inteiro > 0:
+            if inteiro >= 0:
                 return inteiro
             
             erro = 1 / 0
         except:
-            print("Valor inválido. Isso não é um número inteiro positivo(ex: 1,2,3,...)")
+            print("Valor inválido. Isso não é um número inteiro positivo(ex: 0,1,2,...)")
 
 
 def obter_inteiro_minimo(conteudo, limite_inferior):
@@ -76,11 +79,11 @@ def obter_real_positivo(conteudo):
     while True:
         try:
             real = obter_real(conteudo)
-            if real > 0:
+            if real >= 0:
                 return real
             erro = 1 / 0
         except:
-             print("Valor inválido. Isso não é um número real(ex: 0.1,0.2,0.3,...)")
+             print("Valor inválido. Isso não é um número real(ex: 0.0,0.1,0.2s...)")
 
 
 def obter_real_minimo(conteudo, limite_inferior):
@@ -131,3 +134,16 @@ def obter_texto_minimo_e_maximo(conteudo,min = 0, max = 999):
             erro = 1 / 0
         except:
             print(f"Valor inválido. Isso não é um texto de {min} a {max} caracteres")
+
+
+def limpar_tela():
+    sistema = platform.system()
+
+    if sistema == "Windows":
+        os.system("cls")
+    else:
+        os.system("clear")
+
+
+def enter():
+    obter_texto("Pressione enter... ")
