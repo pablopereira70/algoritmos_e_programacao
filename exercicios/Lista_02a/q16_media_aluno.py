@@ -1,0 +1,30 @@
+"""
+Disciplina: Algoritmos e Programação
+Módulo: 03 - Estruturas Condicionais
+Descrição: Programa que recebe duas notas de um aluno, calcula a média e verifica se o aluno está aprovado ou reprovado.
+Autor: Pablo Pereira
+Data: Maio / 2026
+"""
+
+def main():
+    nota_1 = float(input('Digite a primeira nota: '))
+    nota_2 = float(input('Digite a segunda nota: '))
+
+    media = calcular_media(nota_1,nota_2)
+    
+    if media >= 7:
+        print('APROVADO')
+    else:
+        nota_final = float(input('Digite a nota final: '))
+        media_final = calcular_media(media,nota_final)
+        if media_final >= 5:
+            print('APROVADO')
+        else:
+            print('REPROVADO')
+
+
+def calcular_media(n1,n2):
+    return (n1 + n2) / 2
+    
+
+main()

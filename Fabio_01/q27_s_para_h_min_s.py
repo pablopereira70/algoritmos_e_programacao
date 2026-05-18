@@ -1,9 +1,0 @@
-#entrada
-valor_s_total = int(input('Digite um valor(s): '))
-#processamento
-temporario_min = valor_s_total // 60
-valor_s = valor_s_total % 60
-valor_h = temporario_min // 60
-valor_min = temporario_min % 60
-#saída
-print(f'O valor de {valor_s_total}s corresponde a {valor_h}h, {valor_min}min e {valor_s}s')

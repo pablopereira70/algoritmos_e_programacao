@@ -1,0 +1,14 @@
+"""
+Disciplina: Algoritmos e Programação
+Módulo: 01 - Variáveis e Operadores
+Descrição: Programa que recebe o raio de uma circunferência, calcula o comprimento da circunferência e exibe o resultado.
+Autor: Pablo Pereira
+Data: Maio / 2026
+"""
+
+#entrada
+raio_circuferencia = int(input('Digite o raio da circuferência: '))
+#processamento
+comprimento_circuferencia = 2 * 3.14 * raio_circuferencia
+#saída
+print(f'A circuferência de raio {raio_circuferencia} tem comprimento correspondente a {comprimento_circuferencia}')
