@@ -30,7 +30,7 @@ O projeto é dividido em quatro pilares fundamentais para garantir uma consulta 
 ### 1. Conteúdos Teóricos
 Explore a teoria detalhada e os exemplos de sintaxe em cada módulo:
 1. 📦 [Módulo 01: Variáveis e Operadores](./conteudos/unidade1_variaveis_e_operadores/)
-2. ⚙️ [Módulo 02: Funções e Operadores](./conteudos/unidade2_funcoes_e_operadores/)
+2. ⚙️ [Módulo 02: Funções e Escopo](./conteudos/unidade2_funcoes_e_escopo/)
 3. 🔀 [Módulo 03: Estruturas Condicionais](./conteudos/unidade3_estruturas_condicionais/)
 4. 🔄 [Módulo 04: Estruturas de Repetição](./conteudos/unidade4_estruturas_de_repeticao/)
 5. 📚 [Módulo 05: Coleções](./conteudos/unidade5_colecoes/)
