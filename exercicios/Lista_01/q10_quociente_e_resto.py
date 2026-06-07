@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe dois números do usuário, calcula o quociente e o resto da divisão do primeiro número pelo segundo, e exibe os resultados.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

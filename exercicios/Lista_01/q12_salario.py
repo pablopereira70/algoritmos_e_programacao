@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe o salário de um trabalhador, calcula um aumento de 25% e exibe o novo salário.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

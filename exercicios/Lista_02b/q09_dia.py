@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe um número inteiro e retorna o dia da semana correspondente
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

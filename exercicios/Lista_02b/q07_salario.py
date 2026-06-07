@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que calcula o reajuste salarial de um funcionário com base em seu salário atual
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

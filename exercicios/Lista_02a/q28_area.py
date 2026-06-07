@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que calcula a área de um retângulo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

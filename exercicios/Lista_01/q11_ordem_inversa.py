@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe um número inteiro de três algarismos do usuário e exibe os algarismos em ordem inversa.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

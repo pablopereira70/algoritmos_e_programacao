@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que verifica se uma letra é uma vogal ou consoante.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

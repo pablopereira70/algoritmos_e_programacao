@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe três números e os exibe em ordem crescente.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

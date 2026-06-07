@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que converte uma velocidade de quilômetros por hora (km/h) para metros por segundo (m/s).
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

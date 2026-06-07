@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe um número entre 0 a 100 e verifica se ele é um número primo, ou seja, se ele é divisível apenas por 1 e por ele mesmo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

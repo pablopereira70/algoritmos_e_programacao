@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe a quantidade de latão que se quer obter, calcula a quantidade de cobre e zinco necessária para obter essa quantidade de latão, e exibe os resultados.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

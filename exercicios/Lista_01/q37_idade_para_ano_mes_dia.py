@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe a idade de uma pessoa em dias, e exibe a idade em anos, meses e dias.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

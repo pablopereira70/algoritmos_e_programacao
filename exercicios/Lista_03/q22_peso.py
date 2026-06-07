@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê o número de identificação e o peso de N bois, e depois exibe o número de identificação e o peso da boi mais magro e da boi mais gordo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

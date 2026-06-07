@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que classifica uma pessoa como assassino, cúmplice, suspeita ou inocente a partir de cinco perguntas.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

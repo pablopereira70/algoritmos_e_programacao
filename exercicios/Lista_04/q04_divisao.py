@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê um número inteiro e calcula a última divisão por 2 que resulta em um número maior ou igual a 1.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

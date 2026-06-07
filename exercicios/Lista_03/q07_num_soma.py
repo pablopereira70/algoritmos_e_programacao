@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que calcula a soma dos números de 1 até N.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

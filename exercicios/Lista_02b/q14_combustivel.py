@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que calcula o valor a ser pago por um cliente em um posto de combustível
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para ler os dados de um concurso de beleza e determinar quem é a mais alta, a mais baixa, a mais gorda e a mais magra
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

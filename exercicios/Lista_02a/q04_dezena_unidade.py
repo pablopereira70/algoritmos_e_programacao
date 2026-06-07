@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe um número de dois dígitos e verifica se a dezena e a unidade são iguais.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

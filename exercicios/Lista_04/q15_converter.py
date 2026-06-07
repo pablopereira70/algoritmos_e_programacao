@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para converter um número decimal em binário e hexadecimal
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

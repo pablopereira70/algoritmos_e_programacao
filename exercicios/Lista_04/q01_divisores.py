@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê um número inteiro N e exibe os divisores de N. 
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

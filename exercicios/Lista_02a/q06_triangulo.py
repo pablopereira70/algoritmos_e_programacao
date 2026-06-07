@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe três ângulos e verifica se eles formam um triângulo, e caso afirmativo, determina o tipo do triângulo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

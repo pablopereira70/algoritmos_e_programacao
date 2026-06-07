@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe a base e a altura de um triângulo, calcula a área do triângulo e exibe o resultado.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

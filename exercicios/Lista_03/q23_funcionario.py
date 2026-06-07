@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê o número de identificação, a quantidade de horas trabalhadas e o número de dependentes de N funcionários, e depois exibe o número de identificação, o salário bruto, o valor do INSS, o valor do IR e o salário líquido de cada funcionário.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que aproxima um número real para o inteiro mais próximo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe três números do usuário, calcula a soma dos dois primeiros e a diferença dos dois últimos, e exibe os resultados.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

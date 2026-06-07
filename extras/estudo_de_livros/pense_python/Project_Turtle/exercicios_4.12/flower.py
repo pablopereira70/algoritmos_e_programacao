@@ -1,7 +1,6 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para desenhar uma flor usando a biblioteca turtle
+Autor: Pablo Pereira
 Data: Maio / 2026
 """
 

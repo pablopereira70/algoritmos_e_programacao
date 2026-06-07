@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que calcula o salário líquido de um funcionário a partir do valor da hora e quantidade de horas trabalhadas
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

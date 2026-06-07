@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que calcula os termos da série S = 1/1 + 2/2 + 3/3 + 4/4 + ... + N/N, onde N é um número inteiro fornecido pelo usuário.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

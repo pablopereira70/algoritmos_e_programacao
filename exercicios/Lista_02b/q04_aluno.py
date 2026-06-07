@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que verifica o status de aprovação de um aluno com base em suas notas.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

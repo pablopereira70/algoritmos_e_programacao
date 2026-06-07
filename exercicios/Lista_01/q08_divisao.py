@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que calcula a divisão da soma pela subtração de dois números.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

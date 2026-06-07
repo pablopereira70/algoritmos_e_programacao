@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que calcula a soma dos algarismos de um número de três dígitos.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

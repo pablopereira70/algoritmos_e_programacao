@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe um número inteiro de até 3 dígitos e o exibe por extenso.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

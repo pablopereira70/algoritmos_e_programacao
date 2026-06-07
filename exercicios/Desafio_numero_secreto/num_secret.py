@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que implementa um jogo de adivinhação, onde o usuário tem 10 tentativas para adivinhar um número secreto entre 1 e 100. O programa fornece feedback se o palpite é maior ou menor que o número secreto e calcula a pontuação com base nas tentativas restantes.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

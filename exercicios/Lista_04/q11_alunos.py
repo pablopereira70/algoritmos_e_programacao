@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para ler as notas de um número indeterminado de alunos e contar quantos alunos foram aprovados, reprovados e o total de alunos
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

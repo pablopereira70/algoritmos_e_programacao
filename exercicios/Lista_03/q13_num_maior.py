@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê N números e imprime o maior deles.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

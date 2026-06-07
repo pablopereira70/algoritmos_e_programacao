@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe um número inteiro qualquer e verifica se ele é par, ímpar ou nulo. 
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

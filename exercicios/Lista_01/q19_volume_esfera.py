@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe o raio de uma esfera, calcula o volume da esfera e exibe o resultado.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

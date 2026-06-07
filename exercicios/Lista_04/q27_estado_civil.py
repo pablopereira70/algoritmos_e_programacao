@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para coletar informações sobre o estado civil e idade de entrevistados
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

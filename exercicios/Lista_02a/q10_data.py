@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe uma data (dia, mês e ano) e verifica se ela é válida 
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

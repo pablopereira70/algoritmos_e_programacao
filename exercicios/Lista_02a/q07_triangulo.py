@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe os comprimentos dos lados de um triângulo, verifica se eles formam um triângulo, e caso afirmativo, determina o tipo do triângulo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que imprime os N primeiros termos da sequência de Fibonacci.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

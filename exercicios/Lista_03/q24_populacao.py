@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê a quantidade de habitantes de uma população, e depois para cada habitante, lê o salário e o número de filhos. O programa deve calcular e exibir: a média do salário da população, a média do número de filhos, e o percentual de pessoas com salário até 1000.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

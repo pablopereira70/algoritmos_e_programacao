@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que imprime os múltiplos de um número N dentro de um intervalo definido
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

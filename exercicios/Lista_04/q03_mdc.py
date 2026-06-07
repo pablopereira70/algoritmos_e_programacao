@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que calcula o máximo divisor comum (MDC) de dois números inteiros utilizando o algoritmo de Euclides.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

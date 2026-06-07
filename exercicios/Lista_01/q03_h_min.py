@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que converte um valor em minutos para horas e minutos.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

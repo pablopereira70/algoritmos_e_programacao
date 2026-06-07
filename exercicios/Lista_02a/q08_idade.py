@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe a data atual e a data de nascimento de uma pessoa, calcula a idade dessa pessoa, e exibe o resultado.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

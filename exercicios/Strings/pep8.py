@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para converter nomes de variáveis entre os estilos PEP8 e CamelCase.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

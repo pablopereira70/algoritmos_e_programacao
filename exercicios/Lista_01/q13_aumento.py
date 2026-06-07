@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe um valor em reais, calcula um aumento de 70% e exibe o novo valor.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

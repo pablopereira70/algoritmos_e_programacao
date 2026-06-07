@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que resolve equações do segundo grau.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

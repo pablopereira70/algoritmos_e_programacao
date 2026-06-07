@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe os coeficientes de um sistema de equações lineares, calcula as soluções para x e y e exibe os resultados.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que verifica se um número é positivo, negativo ou nulo.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

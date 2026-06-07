@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para gerar os termos de uma progressão aritmética (PA)
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

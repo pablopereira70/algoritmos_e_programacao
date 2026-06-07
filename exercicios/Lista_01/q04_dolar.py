@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que converte uma quantia em dólares para reais com base na cotação.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

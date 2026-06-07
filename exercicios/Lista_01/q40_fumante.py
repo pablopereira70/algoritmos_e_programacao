@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe há quantos anos fuma, quantos cigarros fuma por dia, o preço da carteira de cigarro, calcula a quantia gasta com cigarros em um ano, e exibe o resultado.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

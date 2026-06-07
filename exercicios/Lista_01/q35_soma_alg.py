@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe um número de quatro algarismos, calcula a soma dos algarismos e exibe o resultado.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

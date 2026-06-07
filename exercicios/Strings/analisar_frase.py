@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para analisar uma frase
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

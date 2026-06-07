@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que encontra o preço mais barato entre três produtos.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

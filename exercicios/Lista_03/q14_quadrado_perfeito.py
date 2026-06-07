@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que calcula o maior quadrado perfeito menor ou igual a um número inteiro N.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

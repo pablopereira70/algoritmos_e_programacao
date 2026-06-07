@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que realiza divisões sucessivas de um número X por números inteiros decrescentes a partir de N, até que o divisor seja igual a 1.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

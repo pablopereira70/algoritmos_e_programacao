@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe dois números do usuário e exibe os números em ordem inversa.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

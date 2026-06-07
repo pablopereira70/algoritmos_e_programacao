@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe a quantia desejada, calcula a distribuição ótima de notas para essa quantia, e exibe os resultados.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

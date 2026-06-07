@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que imprime a tabuada de 1 a 10.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

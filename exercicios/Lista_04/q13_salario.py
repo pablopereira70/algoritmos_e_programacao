@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para ler os salários de um número indeterminado de funcionários, calcular o salário reajustado com base em faixas de aumento 
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

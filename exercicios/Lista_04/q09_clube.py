@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que lê o número de identificação, a classificação, o tempo e o clube de cada nadador e indicar qual clube é o vencedor.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que calcula a duração de um jogo com base em horários de início e fim.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que exibe o número correspondente à opção escolhida pelo usuário.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

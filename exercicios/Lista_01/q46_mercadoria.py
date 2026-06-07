@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 01 - Variáveis e Operadores
-Descrição: Programa que recebe o valor de uma mercadoria, calcula o valor da entrada e das parcelas para um pagamento em 3 vezes, e exibe os resultados. 
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

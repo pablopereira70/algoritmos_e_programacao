@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe as horas trabalhadas e o valor da hora de dois professores e exibe qual professor tem o maior salário total.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

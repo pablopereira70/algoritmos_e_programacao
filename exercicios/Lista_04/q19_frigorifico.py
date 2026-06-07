@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa para ler os dados de um frigorífico e determinar qual é o boi mais gordo e qual é o boi mais magro
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe duas notas de um aluno, calcula a média e verifica se o aluno está aprovado ou reprovado.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

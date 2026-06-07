@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 04 - Estruturas de Repetição
-Descrição: Programa que imprime os números ímpares entre dois limites fornecidos pelo usuário.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe dois números e determina qual é o maior e qual é o menor, ou se eles são iguais.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """

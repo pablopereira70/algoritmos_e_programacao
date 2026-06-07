@@ -1,7 +1,5 @@
 """
-Disciplina: Algoritmos e Programação
 Módulo: 03 - Estruturas Condicionais
-Descrição: Programa que recebe cinco números inteiros e verifica se todos são diferentes, e exibe o maior e o menor número.
 Autor: Pablo Pereira
 Data: Maio / 2026
 """
