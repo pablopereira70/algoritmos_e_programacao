@@ -1,6 +1,6 @@
 # 🧮 Operadores Aritméticos
 
-São os símbolos que usamos para realizar operações matemáticas. Veja a tabela abaixo:
+Os operadores aritméticos são símbolos usados para realizar operações matemáticas. Veja a tabela abaixo:
 
 | Operador | Descrição | Exemplo | Resultado |
 | :---: | :--- | :---: | :---: |
