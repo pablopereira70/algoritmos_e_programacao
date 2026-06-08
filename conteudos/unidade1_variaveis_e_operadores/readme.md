@@ -19,7 +19,7 @@ Navegue pelos tópicos abaixo para explorar os conceitos detalhados:
    * Operadores Lógicos (`and`, `or`, `not`).
 
 3. [📂 03. Entrada, Saída e o Fluxo de um Algoritmo](./03_entrada_saida_fluxo.md)
-   * Capturando dados com `input()`.e exibindo dados com `print()` (f-strings).
+   * Capturando dados com `input()` e exibindo dados com `print()` (f-strings).
    * O que é um Algoritmo e seus 3 pilares (Entrada, Processamento e Saída).
 
 ---
