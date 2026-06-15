@@ -12,7 +12,7 @@ Os operadores aritméticos são símbolos usados para realizar operações matem
 | `%` | Módulo (Resto da divisão) | `7 % 2` | `1` |
 | `**` | Exponenciação (Potência) | `2 ** 3` | `8` |
 
-Faremos uso deles mais à frente, mas é importante já ter uma noção de como eles funcionam. Abaixo está uma breve explicação sobre os operadores de divisão inteira e módulo, pois eles podem ser um pouco confusos no começo.
+Abaixo está uma breve explicação sobre os operadores de divisão inteira e módulo, pois eles podem ser um pouco confusos no começo.
 
 ## 🔍 Entendendo a Divisão Inteira e o Módulo
 
