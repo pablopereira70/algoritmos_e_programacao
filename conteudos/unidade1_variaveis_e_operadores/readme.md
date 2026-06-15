@@ -24,4 +24,4 @@ Navegue pelos tópicos abaixo para explorar os conceitos detalhados:
 
 ---
 
-🎉 **Já terminou?** Acesse o próximo módulo: [Módulo 02: Funções e Escopo]().
+🎉 **Já terminou?** Acesse o próximo módulo: [Módulo 02: Funções e Escopo](../unidade2_funcoes_e_escopo/).

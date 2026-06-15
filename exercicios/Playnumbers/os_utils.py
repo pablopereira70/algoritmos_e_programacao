@@ -8,3 +8,6 @@ def limpa_tela():
         os.system("cls")
     else:
         os.system("clear")
+
+def enter():
+    input("Pressione enter...")
