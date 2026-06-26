@@ -109,4 +109,4 @@ def obter_selecoes_estatist(s_grupo, p_grupo):
         selecao_estatist["SG"] = selecao_estatist["GP"] - selecao_estatist["GC"]
         selecoes_estatist.append(selecao_estatist)
 
-    return selecao_estatist
+    return selecoes_estatist
