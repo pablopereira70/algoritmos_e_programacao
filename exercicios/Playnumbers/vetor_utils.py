@@ -83,11 +83,11 @@ def filtrar(vetor, criterio):
     return filtrados
 
 
-def mapear(vetor, transformadora, transformador):
+def mapear(vetor, transformador):
     tranformados = []
 
     for numero in vetor:
-        tranformados.append(transformadora(numero, transformador))
+        tranformados.append(transformador(numero))
 
     return tranformados
 
@@ -107,13 +107,13 @@ def atualizar_valores(vetor):
 
     if opcao == 1:
         valor_padrao = int_utils.obter_inteiro("Valor padrão: ")
-        novo_vetor = mapear(vetor, lambda x,y:x * y, valor_padrao)
+        novo_vetor = mapear(vetor, lambda x:x * valor_padrao)
     elif opcao == 2:
         valor_padrao = int_utils.obter_inteiro("Valor padrão: ")
-        novo_vetor = mapear(vetor, lambda x,y: x ** y, valor_padrao)
+        novo_vetor = mapear(vetor, lambda x: x ** valor_padrao)
     elif opcao == 3:
         valor_padrao = int_utils.obter_inteiro("Valor padrão: ")
-        novo_vetor = mapear(vetor, lambda x,y: x / y, valor_padrao)
+        novo_vetor = mapear(vetor, lambda x: x / valor_padrao)
     elif opcao == 4:
         novo_vetor = ordenar_vetor(vetor)
     elif opcao == 5:
@@ -141,16 +141,10 @@ def embaralhar_vetor(vetor):
 
 def remover_por_valor(vetor):
     valor = int_utils.obter_inteiro("Valor: ")
-    novo_vetor = []
 
-    for numero in vetor:
-
-        if numero == valor:
-            continue
-
-        novo_vetor.append(numero)
-
-    return novo_vetor
+    for i in range(len(vetor)):
+        if vetor[i] == valor:
+            del vetor[i]
 
 
 def remover_por_posicao(vetor):

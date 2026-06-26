@@ -23,7 +23,7 @@ def main():
 0 - sair >>"""
 
     os_utils.limpa_tela()
-    opcao = int_utils.obter_inteiro_intervalo(menu, 0, 15)
+    opcao = int_utils.obter_inteiro_intervalo(menu, 0, 14)
 
     while opcao != 0:
         
@@ -53,7 +53,7 @@ def main():
                 numero = int_utils.obter_inteiro("Novo número: ")
                 vetor.append(numero)
             elif opcao == 12:
-                vetor = vetor_utils.remover_por_valor(vetor)
+                vetor_utils.remover_por_valor(vetor)
             elif opcao == 13:
                 vetor_utils.remover_por_posicao(vetor)
             elif opcao == 14:
@@ -63,7 +63,7 @@ def main():
                 
         os_utils.enter()
         os_utils.limpa_tela()
-        opcao = int_utils.obter_inteiro_intervalo(menu, 0, 15)
+        opcao = int_utils.obter_inteiro_intervalo(menu, 0, 14)
 
     try:
         vetor_utils.salvar_vetor(vetor)
