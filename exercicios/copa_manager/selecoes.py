@@ -120,8 +120,8 @@ def obter_grupo_valido(condicao):
                 else:
                     print("[ERRO] Esse grupo está cheio")
             return grupo
-
-        print("[ERRO] Esse grupo não existe")
+        else:
+            print("[ERRO] Esse grupo não existe")
 
 
 def obter_ranking_fifa_valido():
