@@ -1,3 +1,9 @@
 1;Brasil;CONMEBOL;C;6;5
 2;Marrocos;CAF;C;7;0
 3;Escocia;UEFA;C;35;0
+4;Argentina;CONMEBOL;A;1;3
+5;Haiti;CAF;C;67;0
+6;Arabia;CAF;A;55;0
+7;Inglaterra;UEFA;A;77;0
+8;Irlanda;UEFA;A;64;66
+9;Italia;UEFA;A;2;0

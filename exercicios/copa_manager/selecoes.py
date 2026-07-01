@@ -5,9 +5,11 @@ confederacoes = ["CONMEBOL", "UEFA", "CONCACAF", "CAF", "AFC", "OFC"]
 grupos = {"A": 0, "B": 0, "C": 0, "D": 0, "E": 0, "F": 0, "G": 0, "H": 0, "I": 0, "J": 0, "K": 0, "L": 0}
 
 def cadastrar_selecao():
-    print("--- CADASTRO SELECAO ---") 
-    if selecoes == 48:
+    print("--- CADASTRO SELECAO ---")
+
+    if len(selecoes) == 48:
         return print("[ERRO] O número de selecoes maximo foi atigindo")
+    
     nome = obter_nome_selecao_valido()
     confederacao = obter_confederacao_valida()
     grupo = obter_grupo_valido(True)
@@ -79,9 +81,12 @@ def obter_nome_selecao_valido():
         nome = nome.strip().title()
 
         if buscar(selecoes, lambda selecao:selecao["nome"], nome) == None:
-            return nome
-        
-        print("[ERRO] Essa seleção já está cadastrada")
+            if nome != "":
+                return nome
+            else:
+                print("[ERRO] Esse nome está vazio")
+        else:
+            print("[ERRO] Essa seleção já está cadastrada")
         
 
 def obter_confederacao_valida():
@@ -105,7 +110,7 @@ def obter_grupo_valido(condicao):
         if condicao:
             listar(filtrar(grupos, lambda grupo:grupos[grupo] < 4), lambda grupo:"> Grupo " + grupo)
         else:
-            listar(grupos, lambda grupo:"> Grupo" + grupo)
+            listar(grupos, lambda grupo:"> Grupo " + grupo)
 
         print(20 * "-")
 
@@ -119,7 +124,8 @@ def obter_grupo_valido(condicao):
                     return grupo
                 else:
                     print("[ERRO] Esse grupo está cheio")
-            return grupo
+            else:
+                return grupo
         else:
             print("[ERRO] Esse grupo não existe")
 
