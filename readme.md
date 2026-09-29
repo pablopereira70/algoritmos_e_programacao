@@ -10,11 +10,10 @@ Repositório dedicado ao armazenamento das minhas resoluções práticas da disc
 
 ## 📂 Organização do Repositório
 
-O projeto é dividido em quatro pilares fundamentais para garantir uma consulta rápida e um histórico acadêmico limpo:
+O projeto é dividido em dois pilares fundamentais para garantir uma consulta rápida e um histórico acadêmico limpo:
 
 * 📝 **`exercicios/`**: Listas de exercícios oficiais aplicadas durante o semestre.
 * 🎓 **`avaliacoes/`**: Arquivo histórico de provas oficiais e resoluções de semestres anteriores.
-
 
 ## 🗺️ Guia de Navegação
 
