@@ -20,6 +20,15 @@ O projeto é dividido em dois pilares fundamentais para garantir uma consulta r�
 * 🏃‍♂️ [Exercícios Práticos e Listas](./exercicios/)
 * 🗄️ [Histórico de Avaliações](./avaliacoes/)
 
+## 🎯 Competências Desenvolvidas
+
+- **Lógica de programação:** decomposição de problemas e pensamento computacional
+- **Fundamentos de Python:** variáveis, tipos de dados, operadores e entrada/saída
+- **Estruturas de controle:** condicionais e laços de repetição
+- **Modularização:** criação e reaproveitamento de funções
+- **Estruturas de dados nativas:** listas, tuplas, dicionários e strings
+- **Depuração e testes:** identificação de erros e validação de resultados
+
 ---
 
 Desenvolvido por Pablo Pereira 🧑‍💻
